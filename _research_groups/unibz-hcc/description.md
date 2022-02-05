@@ -1,15 +1,15 @@
 ---
 layout: research
-title: HCC
-group-name: HCC
+title: HCI
+group-name: HCI
 institution: Free University of Bozen-Bolzano
-department: 
+department: Faculty of Computer Science
 address: 
-  street-name: 
-  street-number: 
-  city: 
-  state: 
-  zip: 
+  street-name: Piazza Domenicani 3
+  street-number: 3
+  city: Bolzano
+  state: Italy
+  zip: 39100
 website: https://www.inf.unibz.it/idse/hcc/
 members: 
  - member: 
@@ -30,16 +30,7 @@ keywords:
  - keyword: usability
  - keyword: user experience
 papers: 
- - doi: 10.1080/0144929X.2019.1614226
- - doi: 10.1007/s11042-018-7090-2
- - doi: 10.1145/3240323.3240364
- - doi: 10.1145/3173225.3173248
- - doi: 10.1145/3173225.3173270
- - doi: 10.1016/j.ijhcs.2017.01.006
- - doi: 10.1007/s11042-016-3543-7
- - doi: 10.1007/s11042-016-3609-6
- - doi: 10.1016/j.chb.2015.04.007
- - doi: 10.1080/08839514.2016.1214360
+ Papers are listed on the web pages of members of the group.
 ---
 
 
